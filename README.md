@@ -618,7 +618,6 @@ Después, los participantes presentan los puntos que escribieron. Luego, entre t
 ##### Action Items
 Para finalizar, el equipo discutió y acordó crear los siguientes action items:
 ![](https://hackmd.io/_uploads/S1S83eXE3.png)
-No se crearon tareas en el backlog ya que no se consideró necesario.
 
 ##### Cierre de la Reunión
 El Scrum Master cerró la reunión y se puso a disposición por cualquier cosa que el equipo pueda precisar.
@@ -626,8 +625,9 @@ El Scrum Master cerró la reunión y se puso a disposición por cualquier cosa q
 ### Resultado
 Como resultado de la Retrospective Meeting, se identificarón los siguientes action items y su posible motivación:
 
-| Action Item  | Motivación  | Entra en el backlog?
-|---|---|
-| Registrar horas por tareas en Google Sheet compartida  | Tener un control más granular sobre las horas trabajadas, para así poder tomar analiticas | NO (es algo operativo)
-| Acordar metas entre nosotros en planning meeting | Se detectó que se "fué" dejando trabajó hacia el final del sprint, generando más carga. Por lo que se desea acordar una meta con respecto a esto| NO (es algo operativo)
-| Mover Dailies a Lunes y Jueves  | Poco tiempo entre dailies |NO (es algo operativo)
+
+| Action Item | Motivación | Entra en el backlog? |
+| -------- | -------- | -------- |
+| Registrar horas por tareas en Google Sheet compartida     |Tener un control más granular sobre las horas trabajadas, para así poder tomar analiticas    |NO (es algo operativo) |
+| Acordar metas entre nosotros en planning meeting     | Se detectó que se "fué" dejando trabajó hacia el final del sprint, generando más carga. Por lo que se desea acordar una meta con respecto a esto     | NO (es algo operativo)|
+| Mover Dailies a Lunes y Jueves    | Poco tiempo entre dailies    | NO (es algo operativo) |
