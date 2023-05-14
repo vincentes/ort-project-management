@@ -1,5 +1,66 @@
 # Proyecto ISA-1 - Reserva de Canchas Online
 
+## Indice
+- [Proyecto ISA-1 - Reserva de Canchas Online](#proyecto-isa-1---reserva-de-canchas-online)
+  * [Indice](#indice)
+  * [Marco de Trabajo](#marco-de-trabajo)
+    + [Roles y responsabilidades](#roles-y-responsabilidades)
+      - [Responsabilidad por rol](#responsabilidad-por-rol)
+    + [Eventos / Ceremonias](#eventos--ceremonias)
+      - [Sprint Planning Meeting](#sprint-planning-meeting)
+      - [Daily Scrum Meeting](#daily-scrum-meeting)
+      - [Sprint review](#sprint-review)
+      - [Sprint retrospective](#sprint-retrospective)
+    + [Artefactos](#artefactos)
+      - [Backlog del producto:](#backlog-del-producto)
+      - [Backlog del sprint:](#backlog-del-sprint)
+      - [Incremento del producto](#incremento-del-producto)
+    + [Adaptaciones](#adaptaciones)
+    + [Definición de Ready (DoR)](#definicion-de-ready-dor)
+    + [Definición de Done (DoD)](#definicion-de-done-dod)
+    + [Escala de Estimación](#escala-de-estimacion)
+    + [Estrategia de Branching](#estrategia-de-branching)
+- [Iteración 1](#iteracion-1)
+  * [Objetivo de la Iteración](#objetivo-de-la-iteracion)
+  * [Desarrollo de la Iteración](#desarrollo-de-la-iteracion)
+    + [Fecha de Inicio](#fecha-de-inicio)
+    + [Fecha de Fin](#fecha-de-fin)
+    + [Minuta Sprint Planning](#minuta-sprint-planning)
+      - [Fecha](#fecha)
+      - [Hora](#hora)
+      - [Duración](#duracion)
+      - [Participantes](#participantes)
+      - [Agenda](#agenda)
+      - [Desarrollo](#desarrollo)
+    + [Daily Scrum Meetings](#daily-scrum-meetings)
+      - [Minuta Daily Scrum - 18/04](#minuta-daily-scrum---1804)
+      - [Desarrollo](#desarrollo-1)
+      - [Otras Reuniones](#otras-reuniones)
+    + [Registro de Horas](#registro-de-horas)
+  * [Resultados Claves](#resultados-claves)
+    + [Identificación del problema a resolver](#identificacion-del-problema-a-resolver)
+      - [Identificación de interesados](#identificacion-de-interesados)
+      - [Lista de funcionalidades por interesado](#lista-de-funcionalidades-por-interesado)
+      - [Estudio de competidores](#estudio-de-competidores)
+      - [Estudio de otras aplicaciones similares](#estudio-de-otras-aplicaciones-similares)
+      - [Conclusiones del estudio de competidores y otras aplicaciones similares](#conclusiones-del-estudio-de-competidores-y-otras-aplicaciones-similares)
+      - [Segmentación del mercado](#segmentacion-del-mercado)
+    + [Definición del problema/solución](#definicion-del-problemasolucion)
+      - [Propuesta de Valor y Diferenciador de nuestra propuesta](#propuesta-de-valor-y-diferenciador-de-nuestra-propuesta)
+      - [Story map](#story-map)
+      - [Product Backlog](#product-backlog)
+      - [Épicas](#epicas)
+      - [Historias de usuario](#historias-de-usuario)
+  * [Análisis del Proceso de la Iteración](#analisis-del-proceso-de-la-iteracion)
+    + [Minuta Retrospective Meeting - 05/05](#minuta-retrospective-meeting---0505)
+      - [Fecha](#fecha-2)
+      - [Hora](#hora-2)
+      - [Duración](#duracion-2)
+      - [Participantes](#participantes-2)
+      - [Agenda](#agenda-2)
+      - [Desarrollo](#desarrollo-2)
+    + [Resultado](#resultado)
+
 ## Marco de Trabajo
 
 El framework de gestión a utilizar es Scrum, el cual se ajusta muy bien al problema planteado, ya que es un marco de trabajo ágil que se enfoca en la entrega de valor al cliente de manera iterativa e incremental. Scrum permite una mayor flexibilidad y adaptabilidad a los cambios y requisitos del proyecto, y ofrece un enfoque colaborativo y transparente en la gestión de proyectos. Sin embargo, se realizarán algunas adaptaciones para adecuarlo al proyecto.
@@ -140,19 +201,23 @@ El equipo acordó el horario de la reunión diaria, el formato y el canal por la
 ##### Cierre de la Reunión
 El Scrum Master cerró la reunión y se puso a disposición por cualquier cosa que el equipo pueda precisar.
 
-### Minuta Daily Scrum - 18/04
+### Daily Scrum Meetings
 
-#### Fecha
+#### Minuta Daily Scrum - 18/04
+
+##### Fecha
 18/04/2023.
-#### Hora
+
+##### Hora
 18:00.
-#### Duración
+
+##### Duración
 Asíncrona.
 
-#### Participantes
+##### Participantes
 Brahian Peña, Vicente Bermudez, Daniela Waldeck, Agustina Serrón, Federico Mendez, Nicolas Bruno.
 
-#### Agenda
+##### Agenda
 
 1. Revisión del estado actual del equipo
 2. Cierre de Reunión
@@ -166,190 +231,10 @@ El Scrum Master a la hora indicada solicitó los estados actuales de cada uno de
 ##### Cierre de la Reunión
 El Scrum Master cerró la reunión y se puso a disposición por cualquier cosa que el equipo pueda precisar.
 
-### Minuta Daily Scrum - 20/04
-
-#### Fecha
-20/04/2023.
-#### Hora
-18:00.
-#### Duración
-Asíncrona.
-
-#### Participantes
-Brahian Peña, Vicente Bermudez, Daniela Waldeck, Agustina Serrón, Federico Mendez, Nicolas Bruno.
-
-#### Agenda
-
-1. Revisión del estado actual del equipo
-2. Cierre de Reunión
-
-#### Desarrollo
-
-##### Revisión del Estado Actual del Equipo
-El Scrum Master a la hora indicada solicitó los estados actuales de cada uno de los integrantes del equipo. Los mismos fueron los siguientes:
-![](https://i.imgur.com/XUiHt3Z.png)
-
-
-##### Cierre de la Reunión
-El Scrum Master cerró la reunión y se puso a disposición por cualquier cosa que el equipo pueda precisar.
-
-### Minuta Daily Scrum - 25/04
-
-#### Fecha
-25/04/2023.
-#### Hora
-18:00.
-#### Duración
-Asíncrona.
-
-#### Participantes
-Brahian Peña, Vicente Bermudez, Daniela Waldeck, Agustina Serrón, Federico Mendez, Nicolas Bruno.
-
-#### Agenda
-
-1. Revisión del estado actual del equipo
-2. Cierre de Reunión
-
-#### Desarrollo
-
-##### Revisión del Estado Actual del Equipo
-El Scrum Master a la hora indicada solicitó los estados actuales de cada uno de los integrantes del equipo. Los mismos fueron los siguientes:
-![](https://i.imgur.com/AE0wwxm.png)
-
-##### Cierre de la Reunión
-El Scrum Master cerró la reunión y se puso a disposición por cualquier cosa que el equipo pueda precisar.
-
-### Minuta Daily Scrum - 27/04
-
-#### Fecha
-27/04/2023.
-#### Hora
-18:00.
-#### Duración
-Asíncrona.
-
-#### Participantes
-Brahian Peña, Vicente Bermudez, Daniela Waldeck, Agustina Serrón, Federico Mendez, Nicolas Bruno.
-
-#### Agenda
-
-1. Revisión del estado actual del equipo
-2. Cierre de Reunión
-
-#### Desarrollo
-
-##### Revisión del Estado Actual del Equipo
-El Scrum Master a la hora indicada solicitó los estados actuales de cada uno de los integrantes del equipo. Los mismos fueron los siguientes:
-![](https://i.imgur.com/QoUQMnU.png)
-
-##### Cierre de la Reunión
-El Scrum Master cerró la reunión y se puso a disposición por cualquier cosa que el equipo pueda precisar.
-
-### Minuta Daily Scrum - 02/05
-
-#### Fecha
-02/05/2023.
-#### Hora
-18:00.
-#### Duración
-Asíncrona.
-
-#### Participantes
-Brahian Peña, Vicente Bermudez, Daniela Waldeck, Agustina Serrón, Federico Mendez, Nicolas Bruno.
-
-#### Agenda
-
-1. Revisión del estado actual del equipo
-2. Cierre de Reunión
-
-#### Desarrollo
-
-##### Revisión del Estado Actual del Equipo
-El Scrum Master a la hora indicada solicitó los estados actuales de cada uno de los integrantes del equipo. Los mismos fueron los siguientes:
-![](https://hackmd.io/_uploads/SyCgBJ74h.png)
-
-##### Cierre de la Reunión
-El Scrum Master cerró la reunión y se puso a disposición por cualquier cosa que el equipo pueda precisar.
-
-### Minuta Daily Scrum - 04/05
-
-#### Fecha
-04/05/2023.
-#### Hora
-18:00.
-#### Duración
-Asíncrona.
-
-#### Participantes
-Brahian Peña, Vicente Bermudez, Daniela Waldeck, Agustina Serrón, Federico Mendez, Nicolas Bruno.
-
-#### Agenda
-
-1. Revisión del estado actual del equipo
-2. Cierre de Reunión
-
-#### Desarrollo
-
-##### Revision del Estado Actual del Equipo
-El Scrum Master a la hora indicada solicitó los estados actuales de cada uno de los integrantes del equipo. Los mismos fueron los siguientes:
-![](https://hackmd.io/_uploads/r1WVB1QN2.png)
-
-
-##### Cierre de la Reunión
-El Scrum Master cerró la reunión y se puso a disposición por cualquier cosa que el equipo pueda precisar.
-
-### Minuta Retrospective Meeting - 05/05
-
-#### Fecha
-05/05/2023.
-#### Hora
-18:00.
-#### Duración
-Una hora.
-
-#### Participantes
-Brahian Peña, Vicente Bermudez, Daniela Waldeck, Agustina Serrón, Federico Mendez, Nicolas Bruno.
-
-#### Agenda
-
-1. Invitar a participantes.
-2. Introducir el objetivo de la meeting.
-3. Introducir el tablero a utilizar.
-4. Dar tiempo a los participantes para escribir tarjetas con puntos a analizar.
-5. Presentar puntos.
-6. Agrupar.
-7. Tomar action items.
-
-#### Desarrollo
-
-##### Comienzo de la Reunión
-Durante los minutos iniciales se cubrieron los puntos 1, 2 y 3 de la agenda.
-
-##### Establecer Puntos a Analizar
-Luego, los participantes tuvieron 15 minutos para pensar y escribir los puntos que consideraron que son relevantes.
-
-##### Presentación y Agrupado
-Después, los participantes presentan los puntos que escribieron. Luego, entre todos se agrupan los mismos. A continuación se muestra el resultado de esto:
-
-![](https://hackmd.io/_uploads/S1zZogQVh.png)
-
-![](https://hackmd.io/_uploads/BylSoe7V3.png)
-![](https://hackmd.io/_uploads/SJB8slXVh.png)
-![](https://hackmd.io/_uploads/ryA8ieQEh.png)
-![](https://hackmd.io/_uploads/S1zOjeXNn.png)
-
-##### Action Items
-Para finalizar, el equipo discutió y acordó crear los siguientes action items:
-![](https://hackmd.io/_uploads/S1S83eXE3.png)
-No se crearon tareas en el backlog ya que no se consideró necesario.
-
-##### Cierre de la Reunión
-El Scrum Master cerró la reunión y se puso a disposición por cualquier cosa que el equipo pueda precisar.
-
+#### Otras Reuniones
+Para ver los estados de los integrantes del equipo en el resto de Daily Scrum Meetings, dirigerse al directorio *Iteracion 1/Anexos/Dailies*.
 
 ### Registro de Horas
-
-
 
 | Integrante | Horas | Descripción General |
 | -------- | -------- | -------- |
@@ -670,4 +555,61 @@ A continuación se presentan algunos ejemplos de las tareas creadas. Por la list
 ![](https://hackmd.io/_uploads/HJPBlb7V2.png)
 
 
+## Análisis del Proceso de la Iteración
 
+### Minuta Retrospective Meeting - 05/05
+
+#### Fecha
+05/05/2023.
+#### Hora
+18:00.
+#### Duración
+Una hora.
+
+#### Participantes
+Brahian Peña, Vicente Bermudez, Daniela Waldeck, Agustina Serrón, Federico Mendez, Nicolas Bruno.
+
+#### Agenda
+
+1. Invitar a participantes.
+2. Introducir el objetivo de la meeting.
+3. Introducir el tablero a utilizar.
+4. Dar tiempo a los participantes para escribir tarjetas con puntos a analizar.
+5. Presentar puntos.
+6. Agrupar.
+7. Tomar action items.
+
+#### Desarrollo
+
+##### Comienzo de la Reunión
+Durante los minutos iniciales se cubrieron los puntos 1, 2 y 3 de la agenda.
+
+##### Establecer Puntos a Analizar
+Luego, los participantes tuvieron 15 minutos para pensar y escribir los puntos que consideraron que son relevantes.
+
+##### Presentación y Agrupado
+Después, los participantes presentan los puntos que escribieron. Luego, entre todos se agrupan los mismos. A continuación se muestra el resultado de esto:
+
+![](https://hackmd.io/_uploads/S1zZogQVh.png)
+
+![](https://hackmd.io/_uploads/BylSoe7V3.png)
+![](https://hackmd.io/_uploads/SJB8slXVh.png)
+![](https://hackmd.io/_uploads/ryA8ieQEh.png)
+![](https://hackmd.io/_uploads/S1zOjeXNn.png)
+
+##### Action Items
+Para finalizar, el equipo discutió y acordó crear los siguientes action items:
+![](https://hackmd.io/_uploads/S1S83eXE3.png)
+No se crearon tareas en el backlog ya que no se consideró necesario.
+
+##### Cierre de la Reunión
+El Scrum Master cerró la reunión y se puso a disposición por cualquier cosa que el equipo pueda precisar.
+
+### Resultado
+Como resultado de la Retrospective Meeting, se identificarón los siguientes action items y su posible motivación:
+
+| Action Item  | Motivación  | Entra en el backlog?
+|---|---|
+| Registrar horas por tareas en Google Sheet compartida  | Tener un control más granular sobre las horas trabajadas, para así poder tomar analiticas | NO (es algo operativo)
+| Acordar metas entre nosotros en planning meeting | Se detectó que se "fué" dejando trabajó hacia el final del sprint, generando más carga. Por lo que se desea acordar una meta con respecto a esto| NO (es algo operativo)
+| Mover Dailies a Lunes y Jueves  | Poco tiempo entre dailies |NO (es algo operativo)
