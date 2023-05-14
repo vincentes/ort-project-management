@@ -1,8 +1,26 @@
-# Proyecto ISA-1 - Reserva de Canchas Online
+# Proyecto Reserva de Canchas Online
+
+## Curso
+Ingenieria de Software Agil 1
+
+## Docentes
+* Fabiana Pedrini
+* Alejo Pereira
+
+## Estudiantes
+* Agustina Serrón -
+* Brahian Peña - 267633
+* Daniela Waldeck - 
+* Federico Mendez -
+* Nicolas Bruno - 
+* Vicente Bermudez - 
 
 ## Indice
-- [Proyecto ISA-1 - Reserva de Canchas Online](#proyecto-isa-1---reserva-de-canchas-online)
-  * [Indice](#indice)
+
+- [Proyecto Reserva de Canchas Online](#proyecto-reserva-de-canchas-online)
+  * [Curso](#curso)
+  * [Docentes](#docentes)
+  * [Estudiantes](#estudiantes)
   * [Marco de Trabajo](#marco-de-trabajo)
     + [Roles y responsabilidades](#roles-y-responsabilidades)
       - [Responsabilidad por rol](#responsabilidad-por-rol)
@@ -51,6 +69,9 @@
       - [Product Backlog](#product-backlog)
       - [Épicas](#epicas)
       - [Historias de usuario](#historias-de-usuario)
+  * [![](https://hackmd.io/_uploads/B1Vj1b7En.png)](#httpshackmdio_uploadsb1vj1b7enpng)
+  * [![](https://hackmd.io/_uploads/Hk26y-QV3.png)](#httpshackmdio_uploadshk26y-qv3png)
+  * [![](https://hackmd.io/_uploads/SygcxZQN3.png)](#httpshackmdio_uploadssygcxzqn3png)
   * [Análisis del Proceso de la Iteración](#analisis-del-proceso-de-la-iteracion)
     + [Minuta Retrospective Meeting - 05/05](#minuta-retrospective-meeting---0505)
       - [Fecha](#fecha-2)
