@@ -16,8 +16,8 @@ Ingenieria de Software Agil 1
 
 # Índice
 - [Iteración 2](#iteracion-2)
-  * [Objetivo de la Iteración](#objetivo-de-la-iteracion)
-  * [Desarrollo de la Iteración](#desarrollo-de-la-iteracion)
+  * [Objetivo de la Iteración](#objetivo-de-la-iteracion-2)
+  * [Desarrollo de la Iteración](#desarrollo-de-la-iteracion-2)
     + [Fecha de Inicio](#fecha-de-inicio)
     + [Fecha de Fin](#fecha-de-fin)
     + [Minuta Sprint Planning](#minuta-sprint-planning)
@@ -48,6 +48,7 @@ Ingenieria de Software Agil 1
       - [Agenda](#agenda-2)
       - [Desarrollo](#desarrollo-2)
     + [Resultado](#resultado)
+
 # Iteración 2
 
 ## Objetivo de la Iteración
@@ -97,7 +98,7 @@ El equipo definió y discutió el objetivo del Sprint, siendo el resultado: Prot
 ##### Selección, Estimación y Asignación de Elementos del Product Backlog para el Sprint:
 El equipo seleccionó los elementos del Product Backlog que se incluirán en el Sprint (en base a las prioridades definas en el sprint anterior). Los estimó utilizando la escala planteada en el marco de trabajo. Luego se asignaron, asegurándose que cada tarea tenga un responsable. El resultado es el siguiente:
 
-![](https://hackmd.io/_uploads/Sy5UR8aVh.png)
+![image](https://github.com/vincentes/Equipo3-B.P-A.S-V.B-F.M-N.B-D.W/assets/11695552/0e0948e3-13a6-44d5-a44d-bb9b27ad964b)
 
 
 ##### Cierre de la Reunión
@@ -126,7 +127,7 @@ Brahian Peña, Vicente Bermudez, Daniela Waldeck, Agustina Serrón, Federico Men
 
 ###### Revisión del Estado Actual del Equipo
 El Scrum Master a la hora indicada solicitó los estados actuales de cada uno de los integrantes del equipo. Los mismos fueron los siguientes:
-![](https://hackmd.io/_uploads/Bk2W1D6Vn.png)
+![image](https://github.com/vincentes/Equipo3-B.P-A.S-V.B-F.M-N.B-D.W/assets/11695552/2f6b9147-81ac-41fe-bafc-46f65b2b8fed)
 
 
 ###### Cierre de la Reunión
