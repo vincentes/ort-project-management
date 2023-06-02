@@ -1,7 +1,7 @@
 {
   "scripts": {
     "g:toc": "echo \"GENERATING TOC FOR ${1:-README.md}\" && export OUTPUT=\"index.md\" && npm run md-toc ${1:-README.md} > \"${OUTPUT}\" && echo \"OUTPUT: ${OUTPUT}\"",
-    "md-toc": "markdown-toc --maxdepth 4"
+    "md-toc": "markdown-toc --maxdepth 3"
   },
   "dependencies": {
     "markdown-toc": "^1.2.0"

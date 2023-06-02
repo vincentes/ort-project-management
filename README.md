@@ -32,42 +32,13 @@ Ingenieria de Software Agil 1
     + [Fecha de Inicio](#fecha-de-inicio)
     + [Fecha de Fin](#fecha-de-fin)
     + [Minuta Sprint Planning](#minuta-sprint-planning)
-      - [Fecha](#fecha)
-      - [Hora](#hora)
-      - [Duración](#duracion)
-      - [Participantes](#participantes)
-      - [Agenda](#agenda)
-      - [Desarrollo](#desarrollo)
     + [Daily Scrum Meetings](#daily-scrum-meetings)
-      - [Minuta Daily Scrum - 18/04](#minuta-daily-scrum---1804)
-      - [Desarrollo](#desarrollo-1)
-      - [Otras Reuniones](#otras-reuniones)
   * [Resultados Claves](#resultados-claves)
     + [Identificación del problema a resolver](#identificacion-del-problema-a-resolver)
-      - [Identificación de interesados](#identificacion-de-interesados)
-      - [Lista de funcionalidades por interesado](#lista-de-funcionalidades-por-interesado)
-      - [Estudio de competidores](#estudio-de-competidores)
-      - [Estudio de otras aplicaciones similares](#estudio-de-otras-aplicaciones-similares)
-      - [Conclusiones del estudio de competidores y otras aplicaciones similares](#conclusiones-del-estudio-de-competidores-y-otras-aplicaciones-similares)
-      - [Segmentación del mercado](#segmentacion-del-mercado)
     + [Definición del problema/solución](#definicion-del-problemasolucion)
-      - [Propuesta de Valor y Diferenciador de nuestra propuesta](#propuesta-de-valor-y-diferenciador-de-nuestra-propuesta)
-      - [Product Backlog](#product-backlog)
-      - [Épicas](#epicas)
-      - [Story map](#story-map)
-      - [Historias de usuario](#historias-de-usuario)
-  * [![](https://hackmd.io/_uploads/B1Vj1b7En.png)](#httpshackmdio_uploadsb1vj1b7enpng)
-  * [![](https://hackmd.io/_uploads/Hk26y-QV3.png)](#httpshackmdio_uploadshk26y-qv3png)
-  * [![](https://hackmd.io/_uploads/SygcxZQN3.png)](#httpshackmdio_uploadssygcxzqn3png)
   * [Análisis del Proceso de la Iteración](#analisis-del-proceso-de-la-iteracion)
     + [Registro de Horas](#registro-de-horas)
     + [Minuta Retrospective Meeting - 05/05](#minuta-retrospective-meeting---0505)
-      - [Fecha](#fecha-2)
-      - [Hora](#hora-2)
-      - [Duración](#duracion-2)
-      - [Participantes](#participantes-2)
-      - [Agenda](#agenda-2)
-      - [Desarrollo](#desarrollo-2)
     + [Resultado](#resultado)
 - [Iteración 2](#iteracion-2)
   * [Objetivo de la Iteración](#objetivo-de-la-iteracion-1)
@@ -75,17 +46,7 @@ Ingenieria de Software Agil 1
     + [Fecha de Inicio](#fecha-de-inicio-1)
     + [Fecha de Fin](#fecha-de-fin-1)
     + [Minuta Sprint Planning](#minuta-sprint-planning-1)
-      - [Fecha](#fecha-3)
-      - [Hora](#hora-3)
-      - [Duración](#duracion-3)
-      - [Participantes](#participantes-3)
-      - [Agenda](#agenda-3)
-      - [Desarrollo](#desarrollo-3)
     + [Daily Scrum Meetings](#daily-scrum-meetings-1)
-      - [Minuta Daily Scrum - 08/05](#minuta-daily-scrum---0805)
-      - [Participantes](#participantes-4)
-      - [Agenda](#agenda-4)
-      - [Otras Reuniones](#otras-reuniones-1)
   * [Resultados Claves](#resultados-claves-1)
     + [Prototipado](#prototipado)
   * [Sprint Review](#sprint-review)
@@ -95,14 +56,7 @@ Ingenieria de Software Agil 1
     + [Burndown Chart](#burndown-chart)
     + [Velocidad](#velocidad)
     + [Registro de Horas](#registro-de-horas-1)
-      - [Referencias](#referencias)
   * [Minuta Retrospective Meeting - 19/05](#minuta-retrospective-meeting---1905)
-      - [Fecha](#fecha-5)
-      - [Hora](#hora-5)
-      - [Duración](#duracion-5)
-      - [Participantes](#participantes-5)
-      - [Agenda](#agenda-5)
-      - [Desarrollo](#desarrollo-5)
     + [Resultado](#resultado-1)
 - [Iteración 3](#iteracion-3)
   * [Objetivo de la Iteración](#objetivo-de-la-iteracion-2)
@@ -110,16 +64,7 @@ Ingenieria de Software Agil 1
     + [Fecha de Inicio](#fecha-de-inicio-2)
     + [Fecha de Fin](#fecha-de-fin-2)
     + [Minuta Sprint Planning](#minuta-sprint-planning-2)
-      - [Fecha](#fecha-6)
-      - [Hora](#hora-6)
-      - [Duración](#duracion-6)
-      - [Participantes](#participantes-6)
-      - [Agenda](#agenda-6)
-      - [Desarrollo](#desarrollo-6)
     + [Daily Scrum Meetings](#daily-scrum-meetings-2)
-      - [Minuta Daily Scrum - 22/05](#minuta-daily-scrum---2205)
-      - [Desarrollo](#desarrollo-7)
-      - [Otras Reuniones](#otras-reuniones-2)
   * [Resultados Claves](#resultados-claves-2)
     + [Prototipado](#prototipado-1)
   * [Sprint Review](#sprint-review-1)
@@ -129,14 +74,7 @@ Ingenieria de Software Agil 1
     + [Burndown Chart](#burndown-chart-1)
     + [Velocidad](#velocidad-1)
     + [Registro de Horas](#registro-de-horas-2)
-      - [Referencias](#referencias-1)
   * [Minuta Retrospective Meeting - 02/06](#minuta-retrospective-meeting---0206)
-      - [Fecha](#fecha-8)
-      - [Hora](#hora-8)
-      - [Duración](#duracion-8)
-      - [Participantes](#participantes-8)
-      - [Agenda](#agenda-8)
-      - [Desarrollo](#desarrollo-8)
     + [Resultado](#resultado-2)
 
 # Marco de Trabajo
@@ -773,7 +711,7 @@ El equipo definió y discutió el objetivo del Sprint, siendo el resultado: Prot
 ##### Selección, Estimación y Asignación de Elementos del Product Backlog para el Sprint:
 El equipo seleccionó los elementos del Product Backlog que se incluirán en el Sprint (en base a las prioridades definas en el sprint anterior). Los estimó utilizando la escala planteada en el marco de trabajo. Luego se asignaron, asegurándose que cada tarea tenga un responsable. El resultado es el siguiente:
 
-![](https://hackmd.io/_uploads/Sy5UR8aVh.png)
+![image](https://github.com/vincentes/Equipo3-B.P-A.S-V.B-F.M-N.B-D.W/assets/11695552/3f72ef1e-b8ef-4feb-a25d-96fd4fb964c2)
 
 
 ##### Cierre de la Reunión
@@ -802,7 +740,7 @@ Brahian Peña, Vicente Bermudez, Daniela Waldeck, Agustina Serrón, Federico Men
 
 ###### Revisión del Estado Actual del Equipo
 El Scrum Master a la hora indicada solicitó los estados actuales de cada uno de los integrantes del equipo. Los mismos fueron los siguientes:
-![](https://hackmd.io/_uploads/Bk2W1D6Vn.png)
+![image](https://github.com/vincentes/Equipo3-B.P-A.S-V.B-F.M-N.B-D.W/assets/11695552/f57c067e-8236-42bb-83cb-81107126dc38)
 
 
 ###### Cierre de la Reunión
@@ -819,26 +757,27 @@ Presentamos a continuación algunas capturas del mismo:
 
 |  |  | |
 | -------- | -------- | -------- |
-| ![](https://hackmd.io/_uploads/H1IpG1HB2.jpg) |![](https://hackmd.io/_uploads/Sk0PQvSSh.jpg) |![](https://hackmd.io/_uploads/B1_CM1SS2.jpg) 
-| ![](https://hackmd.io/_uploads/SyRx4PrH3.jpg) | ![](https://hackmd.io/_uploads/SySbVvBH3.jpg) |![](https://hackmd.io/_uploads/Hyz_myrBn.jpg) 
-|![](https://hackmd.io/_uploads/HyDTXkSH2.jpg)   | ![](https://hackmd.io/_uploads/HJVx4krS3.jpg)  | ![](https://hackmd.io/_uploads/ryYzV1BHn.jpg) |![](https://hackmd.io/_uploads/Hk_QEJSr3.jpg) |
-|![](https://hackmd.io/_uploads/r1dE41BB3.jpg)|![](https://hackmd.io/_uploads/rJwBV1rHh.jpg)|![](https://hackmd.io/_uploads/H1YwN1SBn.jpg)
-|![](https://hackmd.io/_uploads/r1fuV1BBn.jpg)|![](https://hackmd.io/_uploads/BkXNLJHB2.jpg)|![](https://hackmd.io/_uploads/ByW9VySB2.jpg)
-|![](https://hackmd.io/_uploads/Sy5c41HB3.jpg)|![](https://hackmd.io/_uploads/BkziVkrHn.jpg)|![](https://hackmd.io/_uploads/HypsV1HBh.jpg)
-|![](https://hackmd.io/_uploads/r1N3EJBSh.jpg)|![](https://hackmd.io/_uploads/Byq2E1Hr3.jpg)|![](https://hackmd.io/_uploads/rJfaEyBr2.jpg)
-|![](https://hackmd.io/_uploads/By9pNJHH3.jpg)|![](https://hackmd.io/_uploads/H1J04yHrh.jpg)|![](https://hackmd.io/_uploads/ryO1HJHSh.jpg)
-|![](https://hackmd.io/_uploads/HkjY81rB2.jpg)|![](https://hackmd.io/_uploads/BkyZByHSh.jpg)|![](https://hackmd.io/_uploads/H1UWB1Hrn.jpg)
-|![](https://hackmd.io/_uploads/r1UMSkSr2.jpg)|![](https://hackmd.io/_uploads/rkZQH1BH2.jpg)|![](https://hackmd.io/_uploads/HJF7rkrBh.jpg)
+| ![image](https://github.com/vincentes/Equipo3-B.P-A.S-V.B-F.M-N.B-D.W/assets/11695552/d155bbab-7880-4494-b228-fae0e8d229eb) | ![image](https://github.com/vincentes/Equipo3-B.P-A.S-V.B-F.M-N.B-D.W/assets/11695552/8d25862c-1ebf-4587-9290-e63aedb3d5a3) |![image](https://github.com/vincentes/Equipo3-B.P-A.S-V.B-F.M-N.B-D.W/assets/11695552/c6039af8-620f-4074-b98e-85a4f4c2accc) 
+| ![image](https://github.com/vincentes/Equipo3-B.P-A.S-V.B-F.M-N.B-D.W/assets/11695552/e0f9d5ec-3c2a-4efc-a14c-dc7a5be1cd58) | ![image](https://github.com/vincentes/Equipo3-B.P-A.S-V.B-F.M-N.B-D.W/assets/11695552/3110dfc6-e8e4-45e4-88cb-9a5dc29eed19) | ![image](https://github.com/vincentes/Equipo3-B.P-A.S-V.B-F.M-N.B-D.W/assets/11695552/cf4059f9-6fdf-47d9-bc42-9fbca7d90b79) 
+| ![image](https://github.com/vincentes/Equipo3-B.P-A.S-V.B-F.M-N.B-D.W/assets/11695552/186f7057-9ec4-4dc7-8027-32f05536a1f0)  | ![image](https://github.com/vincentes/Equipo3-B.P-A.S-V.B-F.M-N.B-D.W/assets/11695552/a3a2eed0-54da-43d3-a17a-afeff4d42c12) | ![image](https://github.com/vincentes/Equipo3-B.P-A.S-V.B-F.M-N.B-D.W/assets/11695552/e8f5643c-a0c5-4f98-912b-98ecece9543f)
+ | ![image](https://github.com/vincentes/Equipo3-B.P-A.S-V.B-F.M-N.B-D.W/assets/11695552/fa53d147-f6af-4004-b738-fb8c231e0d0d) | ![image](https://github.com/vincentes/Equipo3-B.P-A.S-V.B-F.M-N.B-D.W/assets/11695552/31c67d0a-ae94-4436-a7a7-0ad643dab86a) | ![image](https://github.com/vincentes/Equipo3-B.P-A.S-V.B-F.M-N.B-D.W/assets/11695552/1065a1bd-4299-422e-86ea-8641fb65173f)
+ | ![image](https://github.com/vincentes/Equipo3-B.P-A.S-V.B-F.M-N.B-D.W/assets/11695552/9feacdd2-0b33-4209-a6b7-62e804190626) | ![image](https://github.com/vincentes/Equipo3-B.P-A.S-V.B-F.M-N.B-D.W/assets/11695552/fa3b69b6-55fc-493f-8c0b-b8d456386ce9) | ![image](https://github.com/vincentes/Equipo3-B.P-A.S-V.B-F.M-N.B-D.W/assets/11695552/da089c43-9358-4e14-907f-19c810948504)
+| ![image](https://github.com/vincentes/Equipo3-B.P-A.S-V.B-F.M-N.B-D.W/assets/11695552/330d78de-aeb8-47e0-9f7e-b5defa33a4c2) | ![image](https://github.com/vincentes/Equipo3-B.P-A.S-V.B-F.M-N.B-D.W/assets/11695552/437651e7-811d-4ae8-87bd-a90c0c5f6bd9) | ![image](https://github.com/vincentes/Equipo3-B.P-A.S-V.B-F.M-N.B-D.W/assets/11695552/a0ef2c60-14cb-4a07-8269-a12466cbd457)
+ | ![image](https://github.com/vincentes/Equipo3-B.P-A.S-V.B-F.M-N.B-D.W/assets/11695552/72584de6-b1fc-4dec-9e2c-f1d10fe5135e) | ![image](https://github.com/vincentes/Equipo3-B.P-A.S-V.B-F.M-N.B-D.W/assets/11695552/293af112-5af8-4713-9f71-b6fdc75e3ef0) | ![image](https://github.com/vincentes/Equipo3-B.P-A.S-V.B-F.M-N.B-D.W/assets/11695552/18d8c3ca-db54-4a9b-b5a7-0f68e68aff54)
+| ![image](https://github.com/vincentes/Equipo3-B.P-A.S-V.B-F.M-N.B-D.W/assets/11695552/17f9ae05-33be-4b92-b963-0a4da0d860a1) | ![image](https://github.com/vincentes/Equipo3-B.P-A.S-V.B-F.M-N.B-D.W/assets/11695552/54c8f1dd-aa1a-4fd8-800a-eac9923d2a80) | ![image](https://github.com/vincentes/Equipo3-B.P-A.S-V.B-F.M-N.B-D.W/assets/11695552/364276f9-0b34-48c7-9c67-6aa70544a0e2)
+| ![image](https://github.com/vincentes/Equipo3-B.P-A.S-V.B-F.M-N.B-D.W/assets/11695552/a8889f48-8f8b-4749-b0a3-530ea39433f8) | ![image](https://github.com/vincentes/Equipo3-B.P-A.S-V.B-F.M-N.B-D.W/assets/11695552/e902cab5-8519-4cd7-8b7f-9417d7b8da43) | ![image](https://github.com/vincentes/Equipo3-B.P-A.S-V.B-F.M-N.B-D.W/assets/11695552/d0cd38b5-8dfb-4f75-850b-b2107b80e12f)
+| ![image](https://github.com/vincentes/Equipo3-B.P-A.S-V.B-F.M-N.B-D.W/assets/11695552/b97ab5ab-54ee-4853-9124-3fc33d9f2733) | ![image](https://github.com/vincentes/Equipo3-B.P-A.S-V.B-F.M-N.B-D.W/assets/11695552/4020bfcc-4bab-4996-bb19-1bb59f6b48fe) | ![image](https://github.com/vincentes/Equipo3-B.P-A.S-V.B-F.M-N.B-D.W/assets/11695552/bacd01b3-058b-491b-b6cd-90594c73bd92)
+| ![image](https://github.com/vincentes/Equipo3-B.P-A.S-V.B-F.M-N.B-D.W/assets/11695552/2cf5b4c9-058e-458f-a88e-c3a3b66e1ff5) | ![image](https://github.com/vincentes/Equipo3-B.P-A.S-V.B-F.M-N.B-D.W/assets/11695552/c13a1235-41b5-4a99-9f5c-1f76ad589633) | ![image](https://github.com/vincentes/Equipo3-B.P-A.S-V.B-F.M-N.B-D.W/assets/11695552/2f77b036-7c08-4e1a-8875-9883776c23fe) | 
 
 
 ## Sprint Review
 Pudimos completar en este sprint todas las user stories que nos habíamos propuesto. Todas las user stories se encuentran en la columna Done.
 
-![](https://hackmd.io/_uploads/SktNudrHh.png)
+![](https://github.com/vincentes/Equipo3-B.P-A.S-V.B-F.M-N.B-D.W/assets/11695552/1c557cc6-dde0-4515-866d-09b86d43ae43)
 
 Como aprendizaje, cometimos el error de no crear tasks para nuestras user stories y por lo tanto el board del sprint no refleja el progreso. Esto nos dimos cuenta al final del sprint (hasta ahora estábamos trabajándolo en la sección de boards). Generamos un action item para resolver esto en el siguiente sprint (ver en la sección correspondiente a la retrospective meeting).
 
-![](https://hackmd.io/_uploads/HkhMddSS3.png)
+![](https://github.com/vincentes/Equipo3-B.P-A.S-V.B-F.M-N.B-D.W/assets/11695552/4d0cedb8-6b1a-4e0e-9c97-b16616d36a5d)
 
 ### Sesiones de Usability Testing
 Se le pidió a los usuarios que realicen una reserva de una cancha de fútbol 5 para la fecha 20 de Mayo a las 14:30hs. La misma debía ser para su grupo de amigos e invitar a uno de ellos. Luego de reservada se les solicitó que accedieran a las notificaciones, desplegaran una de ellas y por último regresaran al menú principal y cerraran sesión.
@@ -918,12 +857,12 @@ Con esta distribución de horas, no vemos grandes diferencias en las actividades
 Color naranja: Ingeniería
 Color azul: Gestión
 
-![](https://hackmd.io/_uploads/SJk6_uBBn.jpg)
-![](https://hackmd.io/_uploads/rJfgKuBr2.jpg)
-![](https://hackmd.io/_uploads/Bk2GKOrBn.jpg)
-![](https://hackmd.io/_uploads/HyJHFOBS3.png)
-![](https://hackmd.io/_uploads/r12LtOSB2.png)
-![](https://hackmd.io/_uploads/SJ7OK_SH3.png)
+![](https://github.com/vincentes/Equipo3-B.P-A.S-V.B-F.M-N.B-D.W/assets/11695552/f9b706dd-2006-4989-8c63-bea629a14e35)
+![](https://github.com/vincentes/Equipo3-B.P-A.S-V.B-F.M-N.B-D.W/assets/11695552/fb2ea505-bfd4-4ffd-beb0-4a5e0bb02c83)
+![](https://github.com/vincentes/Equipo3-B.P-A.S-V.B-F.M-N.B-D.W/assets/11695552/67212148-e66f-4ad6-9ad9-cf80d4bf5b14)
+![](https://github.com/vincentes/Equipo3-B.P-A.S-V.B-F.M-N.B-D.W/assets/11695552/a33047b7-6a2c-44bd-a902-aceab7db5881)
+![](https://github.com/vincentes/Equipo3-B.P-A.S-V.B-F.M-N.B-D.W/assets/11695552/579eb0ed-9ee2-4c32-bb39-c2c614deda52)
+![](https://github.com/vincentes/Equipo3-B.P-A.S-V.B-F.M-N.B-D.W/assets/11695552/b1f7839c-5e47-4a98-9f1a-1735080a46bf)
 
 
 ## Minuta Retrospective Meeting - 19/05
@@ -958,13 +897,13 @@ Luego, los participantes tuvieron 15 minutos para pensar y escribir los puntos q
 ##### Presentación y Agrupado
 Después, los participantes presentan los puntos que escribieron. Luego, entre todos se agrupan los mismos. A continuación se muestra el resultado de esto:
 
-![](https://hackmd.io/_uploads/ByumlOBrh.png)
+![](https://github.com/vincentes/Equipo3-B.P-A.S-V.B-F.M-N.B-D.W/assets/11695552/bde49ac4-d58e-4ffb-8d33-0998d79d8696)
 
 
 ##### Action Items
 Para finalizar, el equipo discutió y acordó crear los siguientes action items:
 
-![](https://hackmd.io/_uploads/H1fPJdrrh.png)
+![](https://github.com/vincentes/Equipo3-B.P-A.S-V.B-F.M-N.B-D.W/assets/11695552/c376eb4f-1dfd-46d2-a471-6a59027f4ca0)
 
 ##### Cierre de la Reunión
 El Scrum Master cerró la reunión y se puso a disposición por cualquier cosa que el equipo pueda precisar.
