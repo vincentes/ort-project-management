@@ -17,118 +17,101 @@ Ingenieria de Software Agil 1
 * Vicente Bermudez - 214831
 
 ## Indice
+- [Marco de Trabajo](#marco-de-trabajo)
+  * [Roles y Responsabilidades](#roles-y-responsabilidades)
+  * [Eventos / Ceremonias](#eventos--ceremonias)
+  * [Artefactos](#artefactos)
+  * [Adaptaciones](#adaptaciones)
+  * [Definición de Ready (DoR)](#definicion-de-ready-dor)
+  * [Definición de Done (DoD)](#definicion-de-done-dod)
+  * [Escala de Estimación](#escala-de-estimacion)
+  * [Estrategia de Branching](#estrategia-de-branching)
 - [Iteración 1](#iteracion-1)
   * [Objetivo de la Iteración](#objetivo-de-la-iteracion)
   * [Desarrollo de la Iteración](#desarrollo-de-la-iteracion)
     + [Fecha de Inicio](#fecha-de-inicio)
     + [Fecha de Fin](#fecha-de-fin)
     + [Minuta Sprint Planning](#minuta-sprint-planning)
-      - [Fecha](#fecha)
-      - [Hora](#hora)
-      - [Duración](#duracion)
-      - [Participantes](#participantes)
-      - [Agenda](#agenda)
-      - [Desarrollo](#desarrollo)
     + [Daily Scrum Meetings](#daily-scrum-meetings)
-      - [Minuta Daily Scrum - 18/04](#minuta-daily-scrum---1804)
-      - [Desarrollo](#desarrollo-1)
-      - [Otras Reuniones](#otras-reuniones)
-    + [Registro de Horas](#registro-de-horas)
   * [Resultados Claves](#resultados-claves)
     + [Identificación del problema a resolver](#identificacion-del-problema-a-resolver)
-      - [Identificación de interesados](#identificacion-de-interesados)
-      - [Lista de funcionalidades por interesado](#lista-de-funcionalidades-por-interesado)
-      - [Estudio de competidores](#estudio-de-competidores)
-      - [Estudio de otras aplicaciones similares](#estudio-de-otras-aplicaciones-similares)
-      - [Conclusiones del estudio de competidores y otras aplicaciones similares](#conclusiones-del-estudio-de-competidores-y-otras-aplicaciones-similares)
-      - [Segmentación del mercado](#segmentacion-del-mercado)
     + [Definición del problema/solución](#definicion-del-problemasolucion)
-      - [Propuesta de Valor y Diferenciador de nuestra propuesta](#propuesta-de-valor-y-diferenciador-de-nuestra-propuesta)
-      - [Story map](#story-map)
-      - [Product Backlog](#product-backlog)
-      - [Épicas](#epicas)
-      - [Historias de usuario](#historias-de-usuario)
   * [Análisis del Proceso de la Iteración](#analisis-del-proceso-de-la-iteracion)
+    + [Registro de Horas](#registro-de-horas)
     + [Minuta Retrospective Meeting - 05/05](#minuta-retrospective-meeting---0505)
-      - [Fecha](#fecha-2)
-      - [Hora](#hora-2)
-      - [Duración](#duracion-2)
-      - [Participantes](#participantes-2)
-      - [Agenda](#agenda-2)
-      - [Desarrollo](#desarrollo-2)
     + [Resultado](#resultado)
 - [Iteración 2](#iteracion-2)
-  * [Objetivo de la Iteración](#objetivo-de-la-iteracion)
-  * [Desarrollo de la Iteración](#desarrollo-de-la-iteracion)
-    + [Fecha de Inicio](#fecha-de-inicio)
-    + [Fecha de Fin](#fecha-de-fin)
-    + [Minuta Sprint Planning](#minuta-sprint-planning)
-      - [Fecha](#fecha)
-      - [Hora](#hora)
-      - [Duración](#duracion)
-      - [Participantes](#participantes)
-      - [Agenda](#agenda)
-      - [Desarrollo](#desarrollo)
-    + [Daily Scrum Meetings](#daily-scrum-meetings)
-      - [Minuta Daily Scrum - 08/05](#minuta-daily-scrum---0805)
-      - [Participantes](#participantes-1)
-      - [Agenda](#agenda-1)
-      - [Otras Reuniones](#otras-reuniones)
-  * [Resultados Claves](#resultados-claves)
+  * [Objetivo de la Iteración](#objetivo-de-la-iteracion-1)
+  * [Desarrollo de la Iteración](#desarrollo-de-la-iteracion-1)
+    + [Fecha de Inicio](#fecha-de-inicio-1)
+    + [Fecha de Fin](#fecha-de-fin-1)
+    + [Minuta Sprint Planning](#minuta-sprint-planning-1)
+    + [Daily Scrum Meetings](#daily-scrum-meetings-1)
+  * [Resultados Claves](#resultados-claves-1)
     + [Prototipado](#prototipado)
   * [Sprint Review](#sprint-review)
     + [Sesiones de Usability Testing](#sesiones-de-usability-testing)
     + [Inspección y adaptación del producto](#inspeccion-y-adaptacion-del-producto)
-  * [Análisis del Proceso de la Iteración](#analisis-del-proceso-de-la-iteracion)
-    + [Registro de Horas](#registro-de-horas)
-      - [Referencias](#referencias)
-  * [Minuta Retrospective Meeting - 05/05](#minuta-retrospective-meeting---0505)
-      - [Fecha](#fecha-2)
-      - [Hora](#hora-2)
-      - [Duración](#duracion-2)
-      - [Participantes](#participantes-2)
-      - [Agenda](#agenda-2)
-      - [Desarrollo](#desarrollo-2)
-    + [Resultado](#resultado)
-    
+  * [Análisis del Proceso de la Iteración](#analisis-del-proceso-de-la-iteracion-1)
+    + [Burndown Chart](#burndown-chart)
+    + [Velocidad](#velocidad)
+    + [Registro de Horas](#registro-de-horas-1)
+  * [Minuta Retrospective Meeting - 19/05](#minuta-retrospective-meeting---1905)
+    + [Resultado](#resultado-1)
+- [Iteración 3](#iteracion-3)
+  * [Objetivo de la Iteración](#objetivo-de-la-iteracion-2)
+  * [Desarrollo de la Iteración](#desarrollo-de-la-iteracion-2)
+    + [Fecha de Inicio](#fecha-de-inicio-2)
+    + [Fecha de Fin](#fecha-de-fin-2)
+    + [Minuta Sprint Planning](#minuta-sprint-planning-2)
+    + [Daily Scrum Meetings](#daily-scrum-meetings-2)
+  * [Resultados Claves](#resultados-claves-2)
+    + [Prototipado](#prototipado-1)
+  * [Sprint Review](#sprint-review-1)
+    + [Sesiones de Usability Testing](#sesiones-de-usability-testing-1)
+    + [Inspección y adaptación del producto](#inspeccion-y-adaptacion-del-producto-1)
+  * [Análisis del Proceso de la Iteración](#analisis-del-proceso-de-la-iteracion-2)
+    + [Burndown Chart](#burndown-chart-1)
+    + [Velocidad](#velocidad-1)
+    + [Registro de Horas](#registro-de-horas-2)
+  * [Minuta Retrospective Meeting - 02/06](#minuta-retrospective-meeting---0206)
+    + [Resultado](#resultado-2)
+
 # Marco de Trabajo
 
 El framework de gestión a utilizar es Scrum, el cual se ajusta muy bien al problema planteado, ya que es un marco de trabajo ágil que se enfoca en la entrega de valor al cliente de manera iterativa e incremental. Scrum permite una mayor flexibilidad y adaptabilidad a los cambios y requisitos del proyecto, y ofrece un enfoque colaborativo y transparente en la gestión de proyectos. Sin embargo, se realizarán algunas adaptaciones para adecuarlo al proyecto.
 
-## Roles y responsabilidades
-* **Product Owner:** Vicente Bermúdez
-* **Scrum Master:** Brahian Peña
-* **Desarrolladores:** Federico Méndez, Agustina Serrón, Nicolás Bruno, Daniela Waldeck, Brahian Peña
+## Roles y Responsabilidades
+* **Product Owner (Vicente Bermúdez)**: Es responsable de maximizar el valor del producto, ayudando a definir y priorizar el backlog del producto en colaboración con los stakeholders, participar en la planificación del sprint y asegurar la comunicación clara de la visión del producto. Además, debe tomar decisiones sobre el producto.
 
-### Responsabilidad por rol
-* **Product Owner:** responsable de definir y priorizar el backlog del producto, asegurando que el equipo de desarrollo esté trabajando en las características más importantes para el negocio.
-* **Scrum Master:** responsable de ayudar al equipo a comprender y seguir el marco Scrum, identificar y eliminar impedimentos, y fomentar un ambiente de trabajo colaborativo y productivo.
-* **Desarrolladores:** responsable de diseñar, desarrollar, probar y entregar el producto. El equipo es autoorganizado y multidisciplinario, y se compromete a cumplir los objetivos del sprint y entregar incrementos de valor
+* **Scrum Master (Brahian Peña)**: Su función principal es facilitar el proceso Scrum y asegurarse de que se sigan los principios y prácticas adecuadas. Sus responsabilidades incluyen facilitar las reuniones y eventos de Scrum, eliminar obstáculos o impedimentos que puedan afectar al equipo, promover la autoorganización del equipo de desarrollo y apoyar al Product Owner en la gestión del backlog del producto y en el cumplimiento de los objetivos del proyecto.
+
+* **Desarrolladores (Federico Méndez, Agustina Serrón, Nicolás Bruno, Daniela Waldeck, Brahian Peña)**: Es responsable de desarrollar los incrementos del producto. Sus responsabilidades incluyen implementar, probar y entregar los incrementos del producto durante cada sprint, autoorganizarse y colaborar para decidir cómo llevar a cabo el trabajo y mantener la calidad del producto mediante prácticas ágiles.
 
 ## Eventos / Ceremonias
 Para alcanzar los objetivos del proyecto, realizaremos los siguientes eventos en cada iteración:
-* #### Sprint Planning Meeting
-    La planning meeting se realizará en una video llamada el día que comienza el sprint. En esta reunión se estimarán las tareas del próximo sprint.
-* #### Daily Scrum Meeting
-    La daily se realizará mediante WhatsApp. Dos veces a la semana, el Scrum Master preguntará a los desarrolladores el estado de sus tareas, próximos pasos y bloqueos.
-* #### Sprint review
-    Al final del sprint presentaremos al equipo y validaremos con los stakeholders los requisitos definidos en la planning en forma de mejora y desarrollo del producto. En esta reunión se puede adaptar el Product Backlog. 
-* #### Sprint retrospective
-    Haremos una retrospective al final de cada sprint utilizando la herramienta MetroRetro para analizar lo que se ha hecho bien, mal y lo que podría mejorarse para el siguiente sprint (action items).
+* **Sprint Planning Meeting**: La reunión de planificación del sprint es una ceremonia en la que el equipo de Scrum define el trabajo a realizar durante el próximo sprint. Se lleva a cabo al comienzo del sprint y generalmente tiene una duración de 1 a 4 horas, dependiendo de la duración del sprint. Durante esta reunión, el Product Owner presenta los elementos prioritarios del backlog del producto y el equipo de desarrollo selecciona los elementos que se comprometerá a completar durante el sprint. Se establecen los objetivos del sprint y se define el plan de acción para lograrlos.
+    La planning meeting se realizará en una video llamada (en lo posible) el día que comienza el sprint.
+    
+* **Daily Scrum Meeting**: Su objetivo es que el equipo de desarrollo se sincronice y coordine en torno a las tareas del sprint. En la reunión, los miembros del equipo responden a tres preguntas clave: ¿Qué hice ayer?, ¿Qué haré hoy? y ¿Hay algún impedimento o bloqueo? Se enfoca en la comunicación efectiva y la identificación temprana de problemas para facilitar la colaboración y la toma de decisiones.
+    La meeting se realizará mediante WhatsApp, dos veces a la semana.
+    
+
+* **Sprint Review Meeting**: La revisión del sprint es una ceremonia que se realiza al finalizar cada sprint y tiene como objetivo principal revisar y evaluar el trabajo completado durante el sprint. Durante esta reunión, el equipo de desarrollo presenta los incrementos del producto que se han construido y se recopilan los comentarios y la retroalimentación de los stakeholders. Se analiza si los resultados alcanzados cumplen con los criterios de aceptación y se pueden adaptar los elementos del backlog del producto en función de las nuevas necesidades o requisitos identificados. La revisión del sprint es una oportunidad para demostrar el progreso y recibir comentarios valiosos para la planificación futura.
+
+
+* **Sprint Retrospective Meeting**: La retrospectiva del sprint es una ceremonia que se realiza al finalizar cada sprint con el objetivo de reflexionar sobre el proceso de trabajo y buscar oportunidades de mejora. Durante esta reunión, el equipo de Scrum examina lo que ha funcionado bien, lo que no ha funcionado y las posibles áreas de mejora. Se utilizan técnicas y herramientas colaborativas, como la herramienta MetroRetro, para facilitar la discusión y la generación de ideas. Al final de la retrospectiva, se identifican acciones concretas (action items) que se implementarán en el próximo sprint para abordar los problemas identificados y mejorar el proceso de trabajo en general.
     
 Para más detalles de la cadencia de realización de estos eventos, ver la sección de adaptaciones.
 
 ## Artefactos
 Aparte de las ceremonias, también definimos los siguientes artefactos:
 
-* #### Backlog del producto: 
-    Lista de nuevas funciones, mejoras, correcciones de errores, tareas o requisitos de trabajo necesarios. Se obtendrá a partir de fuentes como interacciones con los stakeholders, los análisis de la competencia, las demandas del mercado y los análisis empresariales en general. Este será actualizado a medida que se obtenga nueva información.
+* **Backlog del producto**: Lista de nuevas funciones, mejoras, correcciones de errores, tareas o requisitos de trabajo necesarios. Se obtendrá a partir de fuentes como interacciones con los stakeholders, los análisis de la competencia, las demandas del mercado y los análisis empresariales en general. Este será actualizado a medida que se obtenga nueva información.
 
-* #### Backlog del sprint: 
-    Es un conjunto de tareas del backlog del producto que se seleccionaron para desarrollarse durante la siguiente iteración. Estos son creados para planificar las entregas de cara a los futuros incrementos y detallar el trabajo necesario para concebir el incremento.
+* **Backlog del sprint**: Es un conjunto de tareas del backlog del producto que se seleccionaron para desarrollarse durante la siguiente iteración. Estos son creados para planificar las entregas de cara a los futuros incrementos y detallar el trabajo necesario para concebir el incremento.
 
-* #### Incremento del producto
-    Esto será la entrega al cliente que tiene lugar al completar las tareas del backlog del producto durante un sprint. A su vez, incluye los incrementos de todos los sprints anteriores.
+* **Incremento del producto**: Esto será la entrega al cliente que tiene lugar al completar las tareas del backlog del producto durante un sprint. A su vez, incluye los incrementos de todos los sprints anteriores.
     
     
 ## Adaptaciones
@@ -143,10 +126,9 @@ En base a un action item generado en la retrospective de la primera iteración, 
 
     La primera iteración no tendrá review.
 * La Sprint Retrospective será una meeting de treinta minutos - siendo posible extenderla a máximo una hora. En ella los primeros quince minutos serán para pensar los temas a tratar y luego los quince (máximo cuarenta y cinco) minutos restantes serán para discutirlos.
-* Para crear los readme se utilizó la herramienta: https://hackmd.io/. En esta, todos los integrantes pueden editar el documento dinámicamente. Tendremos un readme general y uno por cada Sprint. Un único integrante del equipo subirá el documento al git.
 
 ## Definición de Ready (DoR)
-Una tarea está lista cuando:
+Una tarea está lista para ser trabajada cuando:
 * La tarea debe estar claramente definida y descrita en el Product Backlog.
 * La tarea debe estar priorizada en el Product Backlog y haber sido aceptada por el Product Owner.
 * La tarea debe ser lo suficientemente pequeña para ser completada en un Sprint.
@@ -156,12 +138,15 @@ Una tarea está lista cuando:
 * El equipo de desarrollo debe tener un entendimiento común de la tarea y de cómo se relaciona con el MVP final del proyecto.
 
 ## Definición de Done (DoD)
-Una tarea está completa cuando:
+El incremento está completo cuando:
 * Se ha desarrollado y probado adecuadamente.
-* Cumple con los requisitos definidos en el Product Backlog.
-* Ha sido revisada y aprobada por el Scrum Master y el Product Owner.
+* Ha sido revisado y aprobada por el Scrum Master y el Product Owner.
 * Se ha integrado en el producto completo de forma adecuada.
-* Se ha creado toda la documentación necesaria.
+* Los prototipos deben seguir las mejores prácticas de diseño de interfaz de usuario y ser fáciles de usar para las distintas franjas etarias de población.
+* Los prototipos deben ser compatibles con dispositivos móviles (iOS y Android) y seguir las guías de interfaz de usuario de cada plataforma.
+* Los prototipos deben estar en un estado que permita su evaluación y revisión por parte de los stakeholders y el equipo.
+* Cumple con los requisitos definidos en el Product Backlog.
+* Se ha creado toda la documentación necesaria en el documento compartido en [HackMD](https://hackmd.io/) (el cual luego sera agregado al repositorio de GIT).
 
 ## Escala de Estimación
 Para estimar las tareas utilizaremos el método póker, preguntándole a cada miembro del equipo qué número de la escala de Fibonacci le asigna a cada tarea del Backlog en relación a su nivel de dificultad. 
@@ -564,11 +549,16 @@ Además, la opción de dividir el costo de la reserva entre todos los participan
 
 En resumen, nuestra aplicación móvil ofrece una propuesta de valor diferenciada al permitir a los usuarios no solo hacer lo que nuestros competidores directos hoy ofrecen, sino además crear partidas públicas y dividir el costo de la reserva entre los participantes, lo que la convierte en una opción atractiva para los usuarios que buscan una solución más completa y útil que las aplicaciones de reservas de canchas deportivas existentes en el mercado.
 
-
-#### Story map
-<img class="img-fluid" src=https://hackmd.io/_uploads/SkjPW3GEh.png />
-
 #### Product Backlog
+A continuación podemos ver el backlog del producto, el cual se encuentra priorizado, la escala utilizada es:
+
+- **1: Prioridad más alta**: Implementar función o solucionar lo más pronto posible. El producto no puede ser enviado sin una resolución exitosa.
+- **2: Prioridad media**: El producto no puede ser enviado sin una resolución exitosa, pero no necesita ser abordado de inmediato.
+- **3: Prioridad baja**: La implementación o solución es opcional según los recursos, tiempo y riesgo. Si el producto se envía sin una resolución exitosa, documentar el problema en las notas de la versión como problemas conocidos.
+- **4: Prioridad más baja**: Registra un problema que básicamente no afecta el uso (como un pequeño error tipográfico).
+
+Es la recomendada por Azure Devops.
+
 ![](https://hackmd.io/_uploads/S1IofyX42.png)
 
 
@@ -579,6 +569,14 @@ En resumen, nuestra aplicación móvil ofrece una propuesta de valor diferenciad
 4. Pagos
 5. Producto
 6. Gestion de usuario
+
+#### Story map
+En base a las historias de usuario, epicas, prioridades definidas y la cantidad de sprints que tenemos para trabajar, creamos el siguiente story map:
+
+<img class="img-fluid" src=https://hackmd.io/_uploads/SkjPW3GEh.png />
+
+Como se puede observar, dedicamos la primera iteración a relevar y documentar, luego la segunda y tercera a prototipado y adaptación. La ultima iteración consolidaria el trabajo de documentación y creación del video de demostración.
+Pre-definir esto nos permite tener claro los objetivos de los sprints al comienzo de estos, y también saber de antemano cuales son las historias que se deberian completar en el mismo.
 
 #### Historias de usuario
 A continuación se presentan algunos ejemplos de las tareas creadas. Por la lista completa de tareas, revisar la sección de product backlog.
@@ -664,6 +662,7 @@ Como resultado de la Retrospective Meeting, se identificarón los siguientes act
 | Mover Dailies a Lunes y Jueves    | Poco tiempo entre dailies    | NO (es algo operativo) |
 
 # Iteración 2
+
 
 ## Objetivo de la Iteración
 Prototipar las funcionalidades prioritarias de la aplicación en base a lo relevado en la iteración anterior para validar la solución.
@@ -753,7 +752,7 @@ Para ver los estados de los integrantes del equipo en el resto de reuniones, dir
 
 ## Resultados Claves
 ### Prototipado
-El prototipo fue realizado con la herramienta Framer. Puede verse y probarse el flujo en este [enlace](https://framer.com/projects/JugaYa--nNnNNOIE7PTzeyIXFQ1i-esMev).
+El prototipo fue realizado con la herramienta Framer. Puede verse y probarse el flujo en este [enlace](https://framer.com/projects/JugaYa--nNnNNOIE7PTzeyIXFQ1i-esMev?node=wLLptzZWw&preview=1).
 Presentamos a continuación algunas capturas del mismo:
 
 |  |  | |
@@ -779,7 +778,6 @@ Pudimos completar en este sprint todas las user stories que nos habíamos propue
 Como aprendizaje, cometimos el error de no crear tasks para nuestras user stories y por lo tanto el board del sprint no refleja el progreso. Esto nos dimos cuenta al final del sprint (hasta ahora estábamos trabajándolo en la sección de boards). Generamos un action item para resolver esto en el siguiente sprint (ver en la sección correspondiente a la retrospective meeting).
 
 ![](https://github.com/vincentes/Equipo3-B.P-A.S-V.B-F.M-N.B-D.W/assets/11695552/4d0cedb8-6b1a-4e0e-9c97-b16616d36a5d)
-
 
 ### Sesiones de Usability Testing
 Se le pidió a los usuarios que realicen una reserva de una cancha de fútbol 5 para la fecha 20 de Mayo a las 14:30hs. La misma debía ser para su grupo de amigos e invitar a uno de ellos. Luego de reservada se les solicitó que accedieran a las notificaciones, desplegaran una de ellas y por último regresaran al menú principal y cerraran sesión.
@@ -826,7 +824,34 @@ Aprovechamos la instancia de sprint review para discutir posibles soluciones a e
 
 ## Análisis del Proceso de la Iteración
 
+### Burndown Chart
+![](https://hackmd.io/_uploads/SkpEd3P82.png)
+En el gráfico se observa que las tareas fueron agregadas a la iteración luego del comienzo de la misma.
+También aparenta que todas fueron completadas el último día y esto refleja exactamente un error que cometimos como equipo durante el desarrollo del sprint por inexperiencia en la herramienta.
+
+Durante el sprint, actualizamos el estado de las tareas pasándolas de To Do a Doing y luego a For Review. Luego en la sprint Review, analizamos las tareas realizadas y las movimos a Done. Es por esto que el gráfico no refleja el avance del equipo durante la iteración.
+
+### Velocidad
+La velocidad promedio estimada para el sprint 2 fué de 25 story points (en base al primer sprint, sin contar los puntos asignados a los tickets operativos - ej: Documentación). Como podemos ver, se completaron, 32 puntos, más de lo que fué estimado.
+
+![](https://hackmd.io/_uploads/HkSxqRDIn.png)
+
+
+
 ### Registro de Horas
+
+Color naranja: Ingeniería (Total 31h)
+
+Esta categoría se refiere al tiempo dedicado a actividades de desarrollo, programación y diseño técnico. En este caso fue el tiempo que se realizaron tareas de prototipado.
+
+
+Color azul: Gestión (Total 29.9h)
+
+Esta categoría abarca actividades relacionadas con la planificación, coordinación, comunicación y seguimiento del proyecto. Esto incluye reuniones, elaboración de documentación y demos con los clientes. 
+
+En general, el equipo parece haber asignado un equilibrio razonable entre las horas dedicadas a la ingeniería y la gestión. Es esencial que los equipos de Scrum dediquen tiempo tanto a las tareas técnicas como a las actividades de gestión para asegurar un desarrollo efectivo del proyecto. 
+
+Con esta distribución de horas, no vemos grandes diferencias en las actividades y tareas por roles, se ve que todos los integrantes fueron parte del desarrollo y de las actividades de gestión como lo es la documentación. 
 
 #### Referencias
 Color naranja: Ingeniería
@@ -840,8 +865,7 @@ Color azul: Gestión
 ![](https://github.com/vincentes/Equipo3-B.P-A.S-V.B-F.M-N.B-D.W/assets/11695552/b1f7839c-5e47-4a98-9f1a-1735080a46bf)
 
 
-
-## Minuta Retrospective Meeting - 05/05
+## Minuta Retrospective Meeting - 19/05
 
 #### Fecha
 19/05/2023.
@@ -879,15 +903,273 @@ Después, los participantes presentan los puntos que escribieron. Luego, entre t
 ##### Action Items
 Para finalizar, el equipo discutió y acordó crear los siguientes action items:
 
+![](https://github.com/vincentes/Equipo3-B.P-A.S-V.B-F.M-N.B-D.W/assets/11695552/c376eb4f-1dfd-46d2-a471-6a59027f4ca0)
+
 ##### Cierre de la Reunión
 El Scrum Master cerró la reunión y se puso a disposición por cualquier cosa que el equipo pueda precisar.
 
 ### Resultado
 Como resultado de la Retrospective Meeting, se identificarón los siguientes action items y su posible motivación:
 
-![](https://github.com/vincentes/Equipo3-B.P-A.S-V.B-F.M-N.B-D.W/assets/11695552/c376eb4f-1dfd-46d2-a471-6a59027f4ca0)
-
 | Action Item | Motivación | Entra en el backlog? |
 | -------- | -------- | -------- |
 | Revision de la letra para Sprint que viene + revision planilla     | Asegurarnos de que la entrega cumpla con los requisitos.     | No     |
 | Arreglar burndown charts. Definir como arreglar.     | Tuvimos un problema que no definimos tasks en las user stories y por lo tanto no pudimos completarlas en el sprint. Entendemos que esto puede generar problemas en la visualización de los burndown charts que tenemos que generar en las próximas iteraciones.     | No     |
+
+
+
+# Iteración 3
+
+## Objetivo de la Iteración
+Continuar el prototipado de funcionalidades y corregir los problemas que se introdujeron junto a los prototipos de la iteración anterior.
+
+## Desarrollo de la Iteración
+
+### Fecha de Inicio
+20/05/2023
+
+### Fecha de Fin
+02/06/2023
+
+### Minuta Sprint Planning
+
+#### Fecha
+22/05/2023.
+#### Hora
+18:00.
+#### Duración
+Una hora y media.
+
+#### Participantes
+Brahian Peña, Vicente Bermúdez, Daniela Waldeck, Agustina Serrón, Federico Méndez, Nicolas Bruno.
+
+#### Agenda
+
+1. Objetivos de la reunión
+2. Revisión del Product Backlog
+3. Establecimiento del Objetivo del Sprint
+4. Selección de elementos del Product Backlog para el Sprint
+5. Estimación de los elementos seleccionados
+6. Asignación de tareas a los miembros del equipo
+7. Cierre de la reunión
+
+#### Desarrollo
+
+##### Objetivos de la reunión
+El Scrum Master junto al Product Owner presentaron los objetivos de la reunión, los cuales fueron: revisar el Product Backlog, seleccionar los elementos que se incluirían en el Sprint, estimarlos y asignarlos. También se estableció el objetivo del sprint.
+
+##### Revisión del Product Backlog
+El Product Owner presentó el Product Backlog. El equipo hizo preguntas y discutió los elementos más importantes.
+
+##### Establecimiento del Objetivo del Sprint
+El equipo discutió y definió el objetivo del Sprint, siendo el resultado: Continuar el prototipado de funcionalidades y corregir los problemas que se introdujeron junto a los prototipos de la iteración anterior.
+
+##### Selección, Estimación y Asignación de Elementos del Product Backlog para el Sprint:
+El equipo seleccionó los elementos del Product Backlog que se incluirán en el Sprint (en base a las prioridades definidas en el sprint anterior). Los estimó utilizando la escala planteada en el marco de trabajo. Luego se asignaron, asegurándose que cada tarea tenga un responsable. El resultado es el siguiente:
+
+![](https://hackmd.io/_uploads/HJ-ua9zUn.png)
+
+##### Cierre de la Reunión
+El Scrum Master cerró la reunión y se puso a disposición por cualquier cosa que el equipo pueda precisar.
+
+### Daily Scrum Meetings
+
+#### Minuta Daily Scrum - 22/05
+
+##### Fecha
+22/05/2023.
+
+##### Hora
+18:30.
+
+##### Duración
+Asíncrona.
+
+##### Participantes
+Brahian Peña, Vicente Bermudez, Daniela Waldeck, Agustina Serrón, Federico Mendez, Nicolas Bruno.
+
+##### Agenda
+
+1. Revisión del estado actual del equipo
+2. Cierre de Reunión
+
+#### Desarrollo
+
+##### Revisión del Estado Actual del Equipo
+El Scrum Master a la hora indicada solicitó los estados actuales de cada uno de los integrantes del equipo. Los mismos fueron los siguientes:
+![](https://hackmd.io/_uploads/rkyiknI83.png)
+
+
+##### Cierre de la Reunión
+El Scrum Master cerró la reunión y se puso a disposición por cualquier cosa que el equipo pueda precisar.
+
+#### Otras Reuniones
+Para ver los estados de los integrantes del equipo en el resto de Daily Scrum Meetings, dirigerse al directorio *Iteracion 3/Anexos/Dailies*.
+
+
+## Resultados Claves
+### Prototipado
+El prototipo continua siendo trabajado sobre la herramienta Framer. Puede verse y probarse el flujo en este [enlace](https://framer.com/projects/JugaYa--nNnNNOIE7PTzeyIXFQ1i-esMev?node=wLLptzZWw&preview=1).
+Presentamos a continuación algunas capturas de las nuevas pantallas y pantallas modificadas (en comparación a la iteración dos):
+
+|  |  | |
+| -------- | -------- | -------- |
+|![](https://hackmd.io/_uploads/r18plzLLh.jpg)|![](https://hackmd.io/_uploads/B1vRlMII2.jpg)|![](https://hackmd.io/_uploads/HkugbMILh.jpg)|
+|![](https://hackmd.io/_uploads/HyMM-fI82.jpg)|![](https://hackmd.io/_uploads/HyyXWzILn.jpg)|![](https://hackmd.io/_uploads/HJb4-fI82.jpg)|
+|![](https://hackmd.io/_uploads/SJAr-M8Uh.jpg)|![](https://hackmd.io/_uploads/rkBZQRvU2.png)|![](https://hackmd.io/_uploads/HkjQm0vLh.png)|
+|![](https://hackmd.io/_uploads/HJ50_y_In.png)|![](https://hackmd.io/_uploads/SJ36u1d82.png)|![](https://hackmd.io/_uploads/SykRw1d8h.png)|
+|![](https://hackmd.io/_uploads/HyJj_kOL2.png)|![](https://hackmd.io/_uploads/H1FjOydLh.png)|![](https://hackmd.io/_uploads/By7f51_L3.png)|
+|![](https://hackmd.io/_uploads/BJOrExdU3.png)|![](https://hackmd.io/_uploads/r18sXedU2.png)|![](https://hackmd.io/_uploads/S1k1EldUh.png)|
+|![](https://hackmd.io/_uploads/H1Y2ExuU2.png)|![](https://hackmd.io/_uploads/S1tQBguIn.png)
+
+
+
+
+
+## Sprint Review
+
+### Sesiones de Usability Testing
+Se le pidió a los usuarios que exploren la lista de canchas disponibles y elijan una que deseen guardar como favorita. Después de seleccionarla, se les pide que la añadan a sus favoritos. A continuación, se les solicita que creen un partido compartido e inviten a algunos amigos. Por último, se les pide que revisen sus reservas actuales, así como que actualicen sus datos personales en su perfil.
+
+| Edad | Descripción | Comentarios |
+| -------- | -------- | -------- |
+| 24     | El usuario ingresó al listado de canchas y marcó una como favorita. Luego optó por crear una nueva reserva. Pudo seguir el flujo correctamente. Se le tuvo que explicar que no puede invitar más amigos porque es solo una demostración. | Tener una "lista de amigos", los cuales se pueden invitar directamente, sin tener que ingresar su correo electrónico.|
+| 23     | El usuario pudo realizar la reserva correctamente. Siguió el flujo de pago "Pagar Mi Parte", el cual encontró ideal para los casos en que no se maneja dinero en efectivo.   | Le gustaria que las notificación se oculten una vez las confirma. O que se marquen con algún icono como "ya leidas".  |
+| 30     | El usuario logro ingresar una cancha como favorita. El proceso de añadir la cancha a sus favoritos fue fluido y sin problemas. Luego, creó un partido compartido e intentó invitar a algunos amigos. Ademas reviso su perfil  |  Sería deseable poder editar mi foto de perfil y decir que datos pueden ver los otros usuarios
+|  20    | El usuario completo correctamente los pedidos sin mayores dificultades |  Sería deseable que en el perfil se puedan agregar preferencias deportivas, como por ejemplo en que deportes estoy interesado. Tener notificaciones de aviso cuando falte un dia para realizarse el partido.
+
+Se solicito a los usuarios que luego de estar logueados, se unan a un partido con desconocidos y paguen su parte correspondiente.
+
+
+| Edad | Descripción | Comentarios |
+| -------- | -------- | -------- |
+| 28     | El usuario seleccionó el partido de Fúbol. Pudo unirse a la reserva y pagar su parte con éxito.     | Sería deseable que antes de decidir pagar, la aplicación te informe sobre el costo adicional que tiene (Impuestos).    |
+| 24     | Pudo hacer el flujo completo sin ayuda.     | Le gusta poder ver todos los datos y jugadores anotados hasta el momento. En cierto punto intentó volver al Home pero no reconoció el ícono de la app como link directo a esa pantalla.
+| 33     | Completó la prueba sin problemas.     | No le quedó claro si el número que se muestra en la pantalla previa es la cantidad de anotados o el límite de jugadores
+
+Se le solicitó a los usuarios que eliminen una de sus reservas.
+
+| Edad | Descripción | Comentarios |
+| -------- | -------- | -------- |
+| 56     | El usuario reconoció que para visualizar sus reservas debía acceder a Mis Reservas. Una vez en la página intento hacer click sobre la reserva sin obtener respuesta, luego reconoció el ícono de basura y al presionarlo se desplegó una nueva página para confirmar su cancelación. El usuario aceptó y terminó.     | No hay mucha diferencia entre el botón de cancelar la reserva y volver a mis reservas. Quizás el de cancelar debería tener color rojo de fondo y el otro ser solamente texto o botón sin relleno y solo borde.     |
+| 42     | El proceso se completó sin dificultades     | Le gustó que tenga doble confirmación antes de borrar la reserva para evitar errores     |
+| 31     | Se completó la tarea correctamente, sin ninguna dificultad.     | El usuario identificó rápidamente el icono para poder eliminar la reserva. También consideró positivo que existiera una confirmación, ya que brinda mayor seguridad de que la cancelación sea la correcta y no sea accidental al presionar el botón de cancelar.     |
+
+Se le solicita al usuario que elimine una cancha de su lista de favoritos.
+| Edad | Descripción | Comentarios |
+| -------- | -------- | -------- |
+| 31     | El usuario completo la tarea correctamente.     | Una vez que el usuario inicia sesión, en la pantalla principal deduce que su lista de favoritos se encuentra en su perfil. Una vez dentro, de manera sencilla, visualiza su lista de favoritos y desmarca una cancha como favorita. Intuitivamente ve que la cancha ha sido eliminada exitosamente.     |
+
+Se le solicita al usuario que edite los datos del perfil y verifique que el mail se haya modificado
+
+| Edad | Descripción | Comentarios |
+| -------- | -------- | -------- |
+| 30     | El usuario completo la tarea correctamente.     | El usuario identifica de manera rápida la ubicación de los datos de su perfil. Una vez dentro de la pantalla correspondiente, realiza los cambios deseados en los datos y luego confirma que su dirección de correo electrónico ha sido ingresada correctamente.     |
+
+### Inspección y adaptación del producto
+En las sesiones de prueba de usabilidad con usuarios detectamos algunas mejoras que podrían hacerse a nuestro producto entre ellas:
+- Tener una lista de amigos, para luego poder invitarlos a los partidos.
+- Notificaciones se deberian ocultar cuando se toca sobre ella.
+- Editar foto de perfil.
+- Mostrar si un dato del perfil es público o privado.
+- Agregar preferencias deportivas como información de usuario.
+- Otras notificaciones de aviso.
+- Mostrar costo de impuestos antes de pagar.
+- Agregar nuevos métodos de pago como: transferencia bancaria.
+- Generar una instancia en donde los usuarios puedan calificar las canchas y agregar reseñas.
+
+Aprovechamos la instancia de sprint review para discutir posibles soluciones a estos comentarios. Decidimos que como los mismos son mejoras sobre la aplicación base, estos quedan por fuera del alcance del proyecto.
+
+
+## Análisis del Proceso de la Iteración
+
+### Burndown Chart
+![](https://hackmd.io/_uploads/HyqlQ3vLh.png)
+
+Podemos observar en el gráfico que si bien la iteración comenzó el día Sábado 20 de Mayo, las tareas fueron definidas el Lunes siguiente. Esto explica que la grafica comienza en 0 y luego sube hasta alcanzar 49, cantidad total de story points en esta iteración.
+
+La mayor cantidad de trabajo se realizó en el fin de semana y se alcanzó a completar el total del alcance de la iteración días previos a su finalización. Esto ocurrió porque destinamos algunos días a documentar y realizar demos con usuarios y estos aspectos no estaban incluídos como historias de usuario en el sprint.
+
+Durante este sprint, el equipo fue moviendo las tareas a Done en la medida que eran completadas. Este cambio en la forma de trabajo del equipo respecto a la iteración 2 fue el resultado de la aplicación de un Action Item que surgió en la última retrospective.
+
+### Velocidad
+La velocidad promedio estimada para el sprint 3 fue de 28 story points (en base al promedio calculado entre el sprint 1 - 25 story points - y el sprint 2 - 32 story points). Como podemos ver, se completaron, 49 puntos, más de lo que fué estimado.
+
+![](https://hackmd.io/_uploads/HyIJqRDIn.png)
+
+Se tiene que la velocidad promedio estimada para el sprint 4 va a ser de 35 story points.
+
+
+### Registro de Horas
+
+#### Referencias
+Color naranja: Ingeniería (Total 21h)
+
+Esta categoría se refiere al tiempo dedicado a actividades de desarrollo, programación y diseño técnico. En este caso fue el tiempo que se realizaron tareas de prototipado.
+
+
+Color azul: Gestión (Total 26h)
+
+Esta categoría abarca actividades relacionadas con la planificación, coordinación, comunicación y seguimiento del proyecto. Esto incluye reuniones, elaboración de documentación y demos con los clientes. 
+
+En general, el equipo parece tener un equilibrio razonable entre las horas asignadas a la ingeniería y las dedicadas a la gestión. 
+
+La distribución vista de horas y trabajo es similar a la de la iteración 2.
+
+
+
+![](https://hackmd.io/_uploads/SyjKnWIU2.jpg)
+![](https://hackmd.io/_uploads/rJ2q3-IUn.jpg)
+![](https://hackmd.io/_uploads/rk4ZabU8n.jpg)
+![](https://hackmd.io/_uploads/HJi96-I8n.jpg)
+![](https://hackmd.io/_uploads/H1KXA-L83.jpg)
+![](https://hackmd.io/_uploads/HJ7vyAU83.png)
+
+
+## Minuta Retrospective Meeting - 02/06
+
+#### Fecha
+02/06/2023.
+#### Hora
+18:00.
+#### Duración
+Media hora.
+
+#### Participantes
+Brahian Peña, Vicente Bermudez, Daniela Waldeck, Agustina Serrón, Federico Mendez, Nicolas Bruno.
+
+#### Agenda
+
+1. Invitar a participantes.
+2. Introducir el objetivo de la meeting.
+4. Dar tiempo a los participantes para escribir tarjetas con puntos a analizar.
+5. Presentar puntos.
+6. Agrupar.
+7. Tomar action items.
+
+#### Desarrollo
+
+##### Comienzo de la Reunión
+Durante los minutos iniciales se cubrieron los puntos 1 y 2 de la agenda.
+
+##### Establecer Puntos a Analizar
+Luego, los participantes tuvieron 15 minutos para pensar y escribir los puntos que consideraron que son relevantes.
+
+##### Presentación y Agrupado
+Después, los participantes presentan los puntos que escribieron. Luego, entre todos se agrupan los mismos. A continuación se muestra el resultado de esto:
+![](https://hackmd.io/_uploads/SygEkedUn.png)
+
+| What is slowing us down? | What is driving us forwards? |
+| -------- | -------- |
+| ![](https://hackmd.io/_uploads/HJ6Bkgu82.png)| ![](https://hackmd.io/_uploads/r11wkeOU2.png)
+
+
+##### Action Items
+Para finalizar, el equipo discutió y se acordó no crear ningún action item, ya que no se pueden tomar acciones desde nuestro lado para trabajar los puntos que nos podrian estar deteniendo.
+
+##### Cierre de la Reunión
+El Scrum Master cerró la reunión y se puso a disposición por cualquier cosa que el equipo pueda precisar.
+
+### Resultado
+Como se mencionó arriba, no hay ningún action item para cubrir.
+
