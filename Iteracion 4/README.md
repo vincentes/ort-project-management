@@ -125,8 +125,7 @@ Para ver los estados de los integrantes del equipo en el resto de Daily Scrum Me
 ## Resultados Claves
 En esta iteración se solucionaron los bugs detectados en la iteración anterior y se produjo un video a modo de demo que detalla las funcionalidades de la app.
 
-El video puede accederse a traves de este enlace.
-https://www.youtube.com/watch?v=vZ9cX51JL34
+El video puede accederse a traves de [este enlace](https://www.youtube.com/watch?v=vZ9cX51JL34).
 
 ## Minuta Sprint Review - 16/06
 
