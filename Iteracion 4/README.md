@@ -125,7 +125,7 @@ Para ver los estados de los integrantes del equipo en el resto de Daily Scrum Me
 ## Resultados Claves
 En esta iteración se solucionaron los bugs detectados en la iteración anterior y se produjo un video a modo de demo que detalla las funcionalidades de la app.
 
-El video puede accederse a traves de este enlace.
+El video puede accederse a traves de [este enlace](https://www.youtube.com/watch?v=vZ9cX51JL34).
 
 ## Minuta Sprint Review - 16/06
 
@@ -276,3 +276,4 @@ El obligatorio fue una buena oportunidad de ver en funcionamiento muchos de los 
 
 
 ##### Vicente
+El obligatorio fue una excelente forma de simular un proyecto de desarrollo bajo la metodología Scrum. Se aplicó gran parte de la teoría aprendida en clase, lo cual nos permitió experimentar y comprender en profundidad cómo funciona este enfoque ágil en un entorno práctico. Desde la planificación inicial, donde definimos el Product Backlog y establecimos las historias de usuario, hasta la ejecución de los sprints, pudimos poner en práctica los roles de Scrum Master, Product Owner y equipo de desarrollo. El resultado del proyecto me dejó satisfecho.
